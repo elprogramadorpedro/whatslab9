@@ -1,8 +1,5 @@
 # Whatslab9
-whatslab9 aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros. 
-
-# Labexspaces
-Labex projeto
+Projeto 
 
 ## Stack
 Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML, CSS.
