@@ -15,9 +15,6 @@ npm install styled-components
 ## Sobre Whatslab9
 "whatslab9 aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros."
 
-A ideia será criar uma plataforma de gerenciamento de viagens espaciais. A plataforma tem
-uma parte pública e uma privada.
-
 Ele consiste em uma página que permite ao usuário colocar seu nome e messages
 e, essas informações aparecem na tela.  
 
@@ -27,8 +24,8 @@ sua máquina, basta abrir o terminal e navegar até o repositório clonado e
 rodar:
 
 1. `npm install` para instalar todas as dependências;
-1. `npm run start` para rodar localmente o projeto
-1. `npm run build` para gerar uma versão estática do projeto 
+2. `npm run start` para rodar localmente o projeto
+3. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`)
 
 ## Link surge do projeto: http://awesome-anger.surge.sh
