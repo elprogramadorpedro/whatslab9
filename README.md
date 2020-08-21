@@ -5,17 +5,15 @@ Projeto
 Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML, CSS.
 e como gerenciador de pacotes do NodeJS o npm [ou yarn, para quem usou yarn]
 Sobre a divisão dos arquivos, há dois grandes setores. Os `components` são 
-os componentes em si do meu projeto (balão de fala, botão de enviar, 
+os componentes em si do meu projeto (botão de enviar, 
 inputs dos usuários messages e outros). 
 
 ##Dependências
 npm install styled-components
 
  
-## Sobre Labexspaces
-"whatslab9 aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros. 
-!"
-Esse foi um dos primeiros projetos que fiz em React.
+## Sobre Whatslab9
+"whatslab9 aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros."
 
 A ideia será criar uma plataforma de gerenciamento de viagens espaciais. A plataforma tem
 uma parte pública e uma privada.
